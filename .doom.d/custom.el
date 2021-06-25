@@ -1,3 +1,14 @@
+; # ====================================================
+; #   Copyright (C) 2021  All rights reserved.
+; #
+; #   Author        : wander
+; #   Email         : wander@email.cn
+; #   File Name     : custom.el
+; #   Last Modified : 2021-06-25 15:37
+; #   Describe      : 
+; #
+; # ====================================================
+
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.

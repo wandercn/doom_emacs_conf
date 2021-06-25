@@ -1,3 +1,14 @@
+; # ====================================================
+; #   Copyright (C) 2021  All rights reserved.
+; #
+; #   Author        : wander
+; #   Email         : wander@email.cn
+; #   File Name     : init.el
+; #   Last Modified : 2021-06-25 15:35
+; #   Describe      : 
+; #
+; # ====================================================
+
 ;;; init.el -*- lexical-binding: t; -*-
 
 ;; This file controls what Doom modules are enabled and what order they load

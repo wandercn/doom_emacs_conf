@@ -1,3 +1,13 @@
+; #   Copyright (C) 2021  All rights reserved.
+; #
+; #   Author        : wander
+; #   Email         : wander@email.cn
+; #   File Name     : config.el
+; #   Last Modified : 2021-06-25 15:34
+; #   Describe      : 
+; #
+; # ====================================================
+
 ;;; $DOOMDIR/config.el -*- lexical-binding: t; -*-
 
 ;; Place your private configuration here! Remember, you do not need to run 'doom
